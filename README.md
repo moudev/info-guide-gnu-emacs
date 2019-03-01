@@ -95,3 +95,16 @@ Los modos hay en gran variedad, dependiendo del paquete que se haya instalado po
 
 _*Emacs automáticamente verificará si el modo está activo o deshabilitado_
 
+
+***
+**Nota del Editor**:
+Esta guía seguirá en aumento segun las necesidades que vayan surgiendo, agregando información que aún falta, recomendación de paquetes para configuración, y otras cosas más que pueden ayudar a ser más productivos y divertirse un poco en el proceso.
+
+Editado para que sirva como guía de inicialización al uso de GNU Emacs, esperando que el uso de ésta herramienta se siga expandiendo y que ésta guía sea uno de los pilares para empezar.
+
+Seguiré intentando de motivar a otros a que le den una oportunidad a ésta maravilla, que con la debida configuración no tiene mucha desventaja con las alternativas más modernas. Es el inicio de lo que llamaré como "Evangelización", ya que es la primera vez que en lo personal comparto sobre ésta herramienta con otras personas, esperando que mis experiencias les sirvan a ellos como ejemplo.
+
+***
+Mauricio Martínez
+mauriciomartinezsocial@gmail.com
+[@_codemart](https://twitter.com/_codemart)
